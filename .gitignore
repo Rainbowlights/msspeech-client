@@ -1,0 +1,4 @@
+dist/
+build/
+msspeech_client.egg-info/
+.DS_Store
